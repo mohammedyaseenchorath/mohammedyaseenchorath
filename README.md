@@ -1,76 +1,72 @@
 # Mohammed Yaseen Chorath
 
-Backend Developer in Training  
-Focused on Python, FastAPI, Django, Linux & Cloud Systems  
+Backend Engineer (Python) in Training  
+Building production-ready backend systems
 
 ---
 
 ## About Me
 
 - BCA Final Year Student
-- Building strong backend fundamentals
-- Currently focused on:
-  - Python
-  - Git & GitHub
-  - Linux
-  - System fundamentals
+- Focused on backend engineering fundamentals
+- Building strong foundations in systems, APIs and databases
 - Long-term goal: Backend + Cloud Engineer
 
 ---
 
 ## Tech Stack (Current Focus)
 
-**Languages**
+**Language**
 - Python
 
-**Backend Frameworks**
-- FastAPI (Learning)
-- Django (Learning)
+**Backend**
+- FastAPI
+- Django
 
 **Tools**
 - Git
 - GitHub
-- Linux (CLI basics)
+- Linux (CLI)
 
-**Upcoming**
-- Docker
+**Next Phase**
 - PostgreSQL
+- Docker
 - AWS
 - CI/CD
 
 ---
 
-## Current Learning Roadmap (2026)
+## 2026 Engineering Focus
 
 - Backend development fundamentals
-- REST API development
-- Database design
-- Authentication systems
-- Deployment basics
+- REST API design & implementation
+- Authentication & authorization systems
+- Database schema design
+- Deployment fundamentals
 
 ---
 
-## Projects (Coming Soon)
+## Projects
 
-This section will contain:
-
-- Backend API projects
-- Authentication system implementation
-- Database-driven applications
-- Dockerized services
-- Cloud deployment projects
+Active backend systems in development.  
+Repositories will reflect structured, production-oriented builds.
 
 ---
 
-## GitHub Activity Philosophy
+## GitHub Philosophy
 
-Consistent contributions.  
-Real projects.  
-Clean code.  
-Strong fundamentals.
+- Consistent contributions  
+- Real-world backend projects  
+- Clean, readable code  
+- Strong system fundamentals  
 
 ---
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/mohammedyaseenchorath
+LinkedIn:  
+https://www.linkedin.com/in/mohammedyaseenchorath
+
+---
+
+Engineering principle: Depth over hype. Systems over shortcuts.
