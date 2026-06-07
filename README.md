@@ -1,7 +1,9 @@
 # Mohammed Yaseen Chorath
 
-Backend Engineer (Python) in Training  
-Building production-ready backend systems
+BCA Graduate (2026)
+
+Currently learning Python, Git, Linux and software development fundamentals.
+Interested in building practical projects and gaining industry experience.
 
 ---
 
